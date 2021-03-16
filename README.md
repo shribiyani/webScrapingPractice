@@ -35,6 +35,6 @@ In this Web Scraping Practice Tutorial, I scraped following -
 
 
 
-#### Thanks for Visiting my Web_Scraping Practice Tutorial...
+### Thanks for Visiting my Web_Scraping Practice Tutorial...
 
-Shrikant Biyani
+# Shrikant Biyani..
