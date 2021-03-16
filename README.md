@@ -35,8 +35,6 @@ In this Web Scraping Practice Tutorial, I scraped following -
 
 
 
-# Thanks for Visiting my Web_Scraping Practice Tutorial...
-  5. Some youtube channels practice too like from - Cor
-  
+#### Thanks for Visiting my Web_Scraping Practice Tutorial...
 
-
+Shrikant Biyani
